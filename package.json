@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "i": "^0.3.6",
+    "uuid": "^3.3.2",
     "vue": "^2.6.6"
   },
   "devDependencies": {
